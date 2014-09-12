@@ -1,2 +1,2 @@
-javascriptecode
+javascriptcode
 ===============
